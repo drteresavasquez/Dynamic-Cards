@@ -1,0 +1,39 @@
+body{
+
+}
+
+#cardArea{
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+ul.card{
+	list-style-type: none;
+	display: flex;
+	flex-wrap: wrap;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+ul.card li{
+	float: left;
+	padding: 25px;
+	width: 27%;
+	border: 2px solid #000;
+	border-radius: 10px;
+	height: 150px;
+	margin: 2px;
+}
+
+.card{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
