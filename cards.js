@@ -1,6 +1,5 @@
 console.log("cards.js, yo!");
 
-
 let createBtn = document.getElementById("create-btn");
 let textArea = document.getElementById("textarea");
 let cardArea = document.getElementById("cardArea");

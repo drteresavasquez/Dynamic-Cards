@@ -1,5 +1,10 @@
 body{
+margin: 0 auto;
+background-color: lightblue;
+}
 
+#formWrapper{
+	text-align: center;
 }
 
 #cardArea{
@@ -20,14 +25,37 @@ ul.card li{
 	float: left;
 	padding: 25px;
 	width: 27%;
-	border: 2px solid #000;
+	border: 2px solid blue;
 	border-radius: 10px;
 	height: 150px;
 	margin: 2px;
+	background: #FFF;
 }
 
 .card{
 	text-align: center;
+}
+
+button{
+	margin: 5;
+	color: white;
+	background: blue;
+	border-radius: 10px;
+	font-size: 1em;
+	text-align: center;
+	height: 50px;
+	padding: 10px;
+
+
+}
+
+input[type=text]{
+	padding: 10px;
+	width: 50%;
+	margin: 10px;
+	text-align: center;
+	font-size: 2em;
+	border-radius: 10px;
 }
 
 
