@@ -43,6 +43,6 @@ function createCard(){
 		newCard.remove(); 
 	});
 
-	//9. Much more coffee in wine, not necesarily in that order!
+	//9. Much more coffee and wine, not necesarily in that order!
 
 };
