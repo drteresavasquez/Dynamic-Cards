@@ -26,7 +26,7 @@ function createCard(){
 	//4. the card is added to the list of line items. On the first add you can't see the beauty of this line of code. Push the create a card button several times to see the magic happen!                         
 	cards.appendChild(newCard);
 	
-	//I am sure there was an easier way to do this in the inner.HTML option I created above, but I wanted the fucntionality of my delete button to be separate (or at least that is what I am telling myself)
+	//I am sure there was an easier way to do this in the inner.HTML option I created above, but I wanted the functionality of my delete button to be separate (or at least that is what I am telling myself)
 
 	//5. Here I create a button and some text for the button
 	let btn = document.createElement("BUTTON");       
